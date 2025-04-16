@@ -29,7 +29,7 @@ This homelab is a virtualized network for practicing offensive and defensive cyb
 
 ## 🌐 Network Diagram
 
-📌 [Network Map](https://github.com/user-attachments/assets/34a942a5-8065-4efa-bc19-a36245e7ed63)
+📌 [Network Map](https://github.com/Yousefibrahim1/cybersecurity-homelab/blob/main/Screenshots/Network%20Map.png)
 
 ---
 
