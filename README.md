@@ -99,8 +99,3 @@ Cyber Defense Frameworks
 
 ## 🧠 About This Project
 This homelab is part of my self-directed learning in cybersecurity while studying at Marist University. I'm actively expanding the setup and documenting my process as I go. Always open to feedback or ideas — feel free to reach out!
-
----
-
-## 📜 License
-MIT — feel free to fork, adapt, or build upon it ✌️
