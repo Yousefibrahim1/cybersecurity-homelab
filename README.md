@@ -72,28 +72,28 @@ Password: password
 ```
 
 ## 🧠 What I'm Learning
-- **Network enumeration, scanning, and web exploitation
+- Network enumeration, scanning, and web exploitation
 
-- **Configuring and securing logging pipelines
+- Configuring and securing logging pipelines
 
-- **Vulnerability assessment using Metasploit and manual tools
+- Vulnerability assessment using Metasploit and manual tools
 
-- **Real-time event logging with Graylog and GELF inputs
+- Real-time event logging with Graylog and GELF inputs
 
 ## 🎯 TryHackMe Modules Completed
 Cyber Defense Frameworks
 
-- **Cryptography
+- Cryptography
 
-- **Compromising Active Directory
+- Compromising Active Directory
 
-- **Endpoint Security Monitoring
+- Endpoint Security Monitoring
 
-- **Network Security
+- Network Security
 
-- **Metasploit
+- Metasploit
 
-Splunk 1 & 2
+- Splunk 1 & 2
 
 
 ## 🧠 About This Project
