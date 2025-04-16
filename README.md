@@ -80,12 +80,15 @@ This homelab is a virtualized network for practicing offensive and defensive cyb
 
 - Real-time event logging with Graylog and GELF inputs
 
+---
+
 ## 🧠 TryHackMe Progress
 
 I've been actively building hands-on experience through TryHackMe by completing labs focused on real-world cybersecurity scenarios.
 
-### 📈 Stats Snapshot
-![TryHackMe Stats](./Screenshots/tryhackme-stats.png)
+### 📈 Stats Snapshot  
+[![TryHackMe Stats](./Screenshots/tryhackme-stats.png)](https://tryhackme.com/p/YousefIbrahim)  
+*Click the image — or [click here](https://tryhackme.com/p/YousefIbrahim) — to view my public profile*
 
 ### 🧪 Notable Modules & Rooms Completed
 - **Cyber Defense Frameworks**
@@ -94,7 +97,6 @@ I've been actively building hands-on experience through TryHackMe by completing 
 - **Network Security Monitoring**
 - **Metasploit**
 - **Splunk 1 & 2**
-
 
 ---
 
