@@ -71,24 +71,6 @@ This homelab is a virtualized network for practicing offensive and defensive cyb
 
 ---
 
-## 📂 Folder Structure
-
-```
-cybersecurity-homelab/
-├── README.md
-├── DVWA-Setup/
-│   └── install-dvwa.sh
-├── Graylog/
-│   └── docker-compose.yml
-├── Screenshots/
-│   ├── dvwa-login.png
-│   └── graylog-dashboard.png
-└── Notes/
-    └── tryhackme-writeups.md
-```
-
----
-
 ## ⚡ Usage
 
 1. **Clone the repo:**
