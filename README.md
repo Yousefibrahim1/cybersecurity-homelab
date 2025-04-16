@@ -29,7 +29,45 @@ This homelab is a virtualized network for practicing offensive and defensive cyb
 
 ## 🌐 Network Diagram
 
-📌 [Network Map](https://github.com/Yousefibrahim1/cybersecurity-homelab/blob/main/Screenshots/Network%20Map.png)
+📌 Network Map  
+![Network Map](Screenshots/Network%20Map.png)
+
+---
+
+## 🖥️ DVWA (Damn Vulnerable Web App)
+
+📷 UI Preview  
+![DVWA Interface 1](Screenshots/dvwa-ui-1.png)  
+![DVWA Interface 2](Screenshots/dvwa-ui-2.png)
+
+🛠 Apache & MariaDB Status  
+![Apache & MariaDB Status](Screenshots/debian-apache2-mariadb-status.png)
+
+---
+
+## 📊 Graylog Stack
+
+📷 Graylog GUI Setup  
+![Graylog Setup GUI](Screenshots/graylog-setup-gui.png)
+
+📟 Graylog CLI Output  
+![Graylog CLI Startup](Screenshots/graylog-cli-startup.png)
+
+🐳 Docker Container Status  
+![Docker Status](Screenshots/docker-status.png)
+
+---
+
+## 📡 VM Connectivity Tests
+
+🔁 Kali → Debian  
+![Kali Pings Debian](Screenshots/kali-ping-debian.png)
+
+🔁 Ubuntu → Debian  
+![Ubuntu Pings Debian](Screenshots/ubuntu-ping-debian.png)
+
+🔁 Ubuntu → Kali  
+![Ubuntu Pings Kali](Screenshots/ubuntu-ping-kali.png)
 
 ---
 
