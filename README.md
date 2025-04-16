@@ -71,26 +71,6 @@ This homelab is a virtualized network for practicing offensive and defensive cyb
 
 ---
 
-## ⚡ Usage
-
-1. **Clone the repo:**
-```
-git clone https://github.com/yousefibrahim/cybersecurity-homelab.git
-```
-2. Launch the Graylog stack:
-```
-cd Graylog
-docker-compose up -d
-```
-3. Access DVWA:
-```
-Open your browser and visit: http://192.168.56.105/dvwa
-
-Default credentials:
-Username: admin
-Password: password
-```
-
 ## 🧠 What I'm Learning
 - Network enumeration, scanning, and web exploitation
 
@@ -115,9 +95,12 @@ Cyber Defense Frameworks
 
 - Splunk 1 & 2
 
+---
 
 ## 🧠 About This Project
 This homelab is part of my self-directed learning in cybersecurity while studying at Marist University. I'm actively expanding the setup and documenting my process as I go. Always open to feedback or ideas — feel free to reach out!
+
+---
 
 ## 📜 License
 MIT — feel free to fork, adapt, or build upon it ✌️
