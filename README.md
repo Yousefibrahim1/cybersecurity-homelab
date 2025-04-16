@@ -82,23 +82,5 @@ This homelab is a virtualized network for practicing offensive and defensive cyb
 
 ---
 
-## 🧠 TryHackMe Progress
-
-I've been actively building hands-on experience through TryHackMe by completing labs focused on real-world cybersecurity scenarios.
-
-### 📈 Stats Snapshot  
-[![TryHackMe Stats](./Screenshots/tryhackme-stats.png)](https://tryhackme.com/p/YousefIbrahim)  
-*Click the image — or [click here](https://tryhackme.com/p/YousefIbrahim) — to view my public profile*
-
-### 🧪 Notable Modules & Rooms Completed
-- **Cyber Defense Frameworks**
-- **Cryptography**
-- **Compromising Active Directory**
-- **Network Security Monitoring**
-- **Metasploit**
-- **Splunk 1 & 2**
-
----
-
 ## 🧠 About This Project
 This homelab is part of my self-directed learning in cybersecurity while studying at Marist University. I'm actively expanding the setup and documenting my process as I go. Always open to feedback or ideas — feel free to reach out!
